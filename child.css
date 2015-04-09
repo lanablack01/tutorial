@@ -1,0 +1,25 @@
+div{
+height:350px;
+width:100%;
+background-image:url(images/Gumball.png);
+background-repeat:no-repeat;
+background-position:center;
+
+background-color:#ead1e7;
+}
+
+.blue{
+	
+	color:#6fd4f2;
+}
+
+.orange{
+
+	color:#f6892e;
+
+}
+
+.pink{
+
+	color:#f7d1d7;
+}

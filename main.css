@@ -1,0 +1,60 @@
+p{
+	color:#eedac1;	
+	font-family:arial;
+	font-weight:normal;
+	font-style:italic;
+	font-size:20px;
+
+
+	
+	
+}
+
+h1{
+	background-color:red;
+	font-family:arial;
+	padding:20px 15px 50px 15px;
+	border:3px dotted black;
+	margin:30px 10px 30px 10px;
+
+}
+
+body{
+
+	font-style:italic;
+}
+
+div{
+
+	border:20px black; 
+	background-color:#d80a0a;
+	width:250px;
+	padding:10px;
+}
+
+span{
+
+	color:#780606;
+	text-decoration:green;
+}
+
+/*     --comments--
+ * the styles under an element, like everything for font under the <p> element
+  can also be all on one line, but mine didn't work for the family in this case, not sure why:
+ *font:normal italic 20px arial;
+ *order for those vaues is: weight style size family
+ *
+ *box padding, you can do padding: and set a uniform distance for all sides by using this...
+ *padding:10px; or 
+ *call out each i.e. padding-top:10px then next line padding-bottom:20px same for left and right;
+ *you can show them all on a line like this:
+ *padding-top:20px;
+ *padding-right:15px;
+ *padding-bottom:50px;
+ *padding-left:15px;
+ *or you can put them all on one line as above in the code  (top right bottom left -- clockwise)
+ *alternatively if you want top and bottom the same and both sides the same, you can just use two values
+ *on one line, top and bottom going first, then the sides like this: padding:20px 10px
+ *in this case top and bottom would be 20px and left and right would be 10px;
+ *;
+ */
